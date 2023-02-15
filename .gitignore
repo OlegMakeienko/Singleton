@@ -1,0 +1,4 @@
+.idea
+.gitignore
+Singleton.iml
+/out/production/Singleton/com/makeienko/
